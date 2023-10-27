@@ -8,7 +8,7 @@ os.system('git pull')
 os.system('clear')
 print('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m HaM Khadda VIP :) ')
 time.sleep(2)
-os.system(f'xdg-open https://www.facebook.com/HaM.khadda.9 ')
+os.system(f'xdg-open https://www.facebook.com/hamza.khadda.9 ')
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
